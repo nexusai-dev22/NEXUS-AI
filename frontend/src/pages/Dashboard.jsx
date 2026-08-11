@@ -4,7 +4,7 @@ function Dashboard() {
       <header className="dashboard-header">
         <div>
           <h1>Dashboard</h1>
-          <p>Centro de control de NEXUS AI</p>
+          <p>Centro de control de VAYRONA</p>
         </div>
 
         <div className="estado">
@@ -17,7 +17,7 @@ function Dashboard() {
         <div className="tarjeta">
           <h3>IA</h3>
           <strong>Activa</strong>
-          <p>NEXUS AI está funcionando correctamente.</p>
+          <p>VAYRONA está funcionando correctamente.</p>
         </div>
 
         <div className="tarjeta">
@@ -46,7 +46,7 @@ function Dashboard() {
           <span>●</span>
           <div>
             <strong>Sistema iniciado</strong>
-            <p>NEXUS AI está listo para trabajar.</p>
+            <p>VAYRONA está listo para trabajar.</p>
           </div>
         </div>
 
