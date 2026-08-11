@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Bases de datos locales
+*.db
+
+# Backups
+*.bak
+*.backup
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backups específicos de desarrollo
+backend/app/routers/*.before_*
+backend/app/routers/*_backup.py
+backend/app/routers/*_memoria_ok.py
+
+backend/app/routers/*.speed_backup
