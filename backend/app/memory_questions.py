@@ -37,4 +37,24 @@ PREGUNTAS_MEMORIA = {
         "con que lenguaje programo",
     ],
 
+    "intereses": [
+
+        "cuáles son mis intereses",
+        "cuales son mis intereses",
+
+        "qué me interesa",
+        "que me interesa",
+
+        "qué cosas me interesan",
+        "que cosas me interesan",
+
+        "qué me gusta",
+        "que me gusta",
+
+        "qué cosas me gustan",
+        "que cosas me gustan",
+
+        "cuáles son mis gustos",
+        "cuales son mis gustos",
+    ],
 }

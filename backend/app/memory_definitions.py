@@ -88,4 +88,47 @@ MEMORIAS = [
         ],
     },
 
+    {
+        "clave": "intereses",
+
+        "tipo": "preferencia",
+
+        "descripcion": "Intereses del usuario",
+
+        "keywords": [
+            "gusta",
+            "gustan",
+            "interesa",
+            "interesan",
+            "apasiona",
+            "apasionan",
+            "encanta",
+            "encantan",
+            "interesado",
+            "interesada",
+        ],
+
+        "patrones": [
+
+            r"me gusta\s+(.+)",
+
+            r"me gustan\s+(.+)",
+
+            r"me interesa\s+(.+)",
+
+            r"me interesan\s+(.+)",
+
+            r"me apasiona\s+(.+)",
+
+            r"me apasionan\s+(.+)",
+
+            r"me encanta\s+(.+)",
+
+            r"me encantan\s+(.+)",
+
+            r"estoy interesado en\s+(.+)",
+
+            r"estoy interesada en\s+(.+)",
+        ],
+    },
 ]
